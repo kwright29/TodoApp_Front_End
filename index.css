@@ -1,5 +1,9 @@
 html {
-    font-family: monospace;
+    background-color: white;
+}
+h1 {
+  font-family: monospace;
+  color: purple;
 }
 li {
   background-color: pink;
@@ -8,7 +12,14 @@ li {
   border: 3px solid;
   border-color: magenta purple magenta purple;
   margin: 10px;
-  display: inline-block;
-  c
+  max-width: 175px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+}
+a {
+  font-family: monospace;
+  color: purple;
+  border: 5px dotted;
+  padding: 10px;
 }
 
